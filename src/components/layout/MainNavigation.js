@@ -17,7 +17,7 @@ function MainNavigation() {
   return (
     <header className={classes.header}>
       <div className={classes.logo}>
-        <Link to="/">chart3r</Link>
+        <Link to="/">FirebaseAuth</Link>
       </div>
       <nav>
         <ul>
